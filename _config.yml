@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deepak Anand"
+title                    : "Nikhil Cherian Kurian"
 title_separator          : "-"
-name                     : &name "Deepak Anand"
+name                     : &name "Nikhil Cherian Kurian"
 description              : &description "Ph.D. Scholar, IIT Bombay"
-url                      : ""# the base hostname & protocol for your site e.g. "https://deepakanandece.github.io"
+url                      : ""# the base hostname & protocol for your site e.g. "https://nikhilkurian.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "deepakanandece.github.io"
+repository               : "nikhilkurian.github.io""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Deepak Anand"
+  name             : "Nikhil Kurian"
   avatar           : "bio-photo-1.jpg"
-  bio              : "Ph.D. Scholar, IIT Bombay (Mob: 8454912860)"
+  bio              : "Research Scholar, IIT Bombay"
   location         : "Mumbai"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=uqL12FYAAAAJ&hl=en&oi=ao"
-  email            : "deepakanandece@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=5oEir04AAAAJ&hl=en"
+  email            : "nikhilcherian30@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Nikhil_Kurian2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "/deepakanandece"
+  github           : "nikhilkurian"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "deepak-anand-945575162/"
-  orcid            : "https://orcid.org/0000-0001-7189-6885"
+  linkedin         : "nikhil-cherian-kurian-7bba285b"
+  orcid            : "https://orcid.org/0000-0003-1713-0736"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
