@@ -75,13 +75,13 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-150194290-1"
+    tracking_id          : 
 
 
 # Site Author
 author:
   name             : "Nikhil Kurian"
-  avatar           : "bio-photo-1.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : "Research Scholar, IIT Bombay"
   location         : "Mumbai"
   employer         : 
