@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nikhil Kurian"
-  avatar           : "bio-photo-1.jpg"
+  avatar           : "/Images/bio-photo-1.png"
   bio              : "Research Scholar, IIT Bombay"
   location         : "Mumbai"
   employer         : 
