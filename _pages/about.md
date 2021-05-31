@@ -17,7 +17,7 @@ redirect_from:
 I maintain a list of my publications under the Research tab and my full Resume is attached the CV Tab.
 
 <h2>Recent Updates </h2> 
-======
+
 1. Our reveiw article "A 2021 update on cancer image analytics with deep learning." has been accepted and published in Wiley Interdisciplinary Reviews:
 Data Mining and Knowledge Discovery May, 2021 
 2. Our Journal on MoNuSAC, summarizing the official 2020 ISBI competition has been accepted in IEEE Transactions on Medical Imaging, May 2021. 
