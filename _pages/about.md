@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size="6">About Me </font> 
+<font size="5">About Me </font> 
+
 
 <div style='text-align: justify;'>I am Nikhil Cherian Kurian, a senior research scholar in the <a href="https://www.ee.iitb.ac.in" style="text-decoration: none;">Department of Electrical Engineering</a> at the <a href="https://www.iitb.ac.in/" style="text-decoration: none;">Indian Institute of  Technology, Bombay</a>. My research focuses on introducing a range of novel algorithms that automatically analyse cancerous tissue in H&E histology images. My expertise lies in developing robust supervision techniques for large scale histopathological image analysis. I have been associated with MeDAL (Medical Deep Learning and Artificial Intelligence Lab) and working under the supervision of <a href="https://www.ee.iitb.ac.in/~asethi/" style="text-decoration: none;">Prof. Amit Sethi</a>. I did my Masters from the department of electrical engineering at <a href="https://www.iitgn.ac.in/" style="text-decoration: none;">IIT Gandhinagar</a>, where I developed novel information-theoretic learning algorithms for various signal processing application.</div>  
 <p>  </p>
