@@ -5,7 +5,7 @@ permalink: /publication/tmi_monusac2021
 excerpt: ' In this paper, we present the key findings of MoNuSAC challenge at [MICCAI 2020](https://monusac-2020.grand-challenge.org/)'
 date: 2021-04-03
 venue: 'Transaction of Medical Imaging, IEEE'
-image: 'monusac.png'
+image: 'monusac1.png'
 width: '800'
 ---
 Generalized nucleus segmentation techniques can contribute greatly to reducing the time to develop and validate visual biomarkers for new digital pathology datasets. We summarize the results of MoNuSeg 2018 Challenge whose objective was to develop generalizable nuclei segmentation techniques in digital pathology. The challenge was an official satellite event of the
