@@ -6,7 +6,7 @@ date: 2021-04-12
 excerpt: This paper introduces novel self-supervision based color-normalisation schemes for H&E images.
 venue: '2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)'
 image: 'isbii2.PNG'
-width: '800'
+width: '600'
 ---
 
 
