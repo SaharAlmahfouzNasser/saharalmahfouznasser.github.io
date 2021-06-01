@@ -14,7 +14,7 @@ redirect_from:
 
 <div style='text-align: justify;'>During my research, I have been fortunate to work and communicate with various collaborators from the perspective of broad interdisciplinary research. For the last couple of years, I have focussed my research on analysing and quantifying intra-tumour heterogeneity in breast cancer tissues under the mentorship of <a href="https://pathology.uic.edu/directory/peter-h-gann-mdscd/" style="text-decoration: none;">Prof Peter Gann</a>, University of Illinois, Chicago.  Earlier, I have also got the opportunity to work with <a href="https://www.kcl.ac.uk/people/anita-grigoriadis" style="text-decoration: none;">Prof. Anita Grigoriadis</a> of Kings College London, and <a href="https://actrec.irins.org/profile/171459" style="text-decoration: none;">Prof Swapnil Rane</a>, Tata Memorial Centre, Mumbai where we worked on solving robust pathological feature segmentation using novel deep learning pipelines to analyse breast cancer lymph nodes. I also have research assosciations with <a href="https://www.nvidia.com/en-in/" style="text-decoration: none;"> Nvidia Corporation Mumbai</a> for exploratory and accelerated research in large scale histopathology problems.</div>
 
-I maintain a list of my publications under the Research tab and my full Resume is attached the CV Tab.
+<p>I maintain a list of my publications under the Research tab and my full Resume is attached the CV Tab.</p>
 
 <h2>Recent Updates </h2> 
 
