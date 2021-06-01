@@ -1,7 +1,7 @@
 ---
 title: "Fast, Self Supervised, Fully Convolutional Color Normalization Of H&E Stained Images"
 collection: publications
-permalink: /publication/isbi20211
+permalink: /publication/isbi20212
 date: 2021-04-12
 excerpt: This paper introduces novel self-supervision based color-normalisation schemes for H&E images.
 venue: '2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)'
