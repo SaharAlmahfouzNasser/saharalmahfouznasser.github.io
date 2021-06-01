@@ -9,7 +9,7 @@ Original credits:
 [Sparse structure preserving color normalisation](https://github.com/MEDAL-IITB/Fast_WSI_Color_Norm)
 
 
-<h3>  Multi-Organ Nucleus Segmentation and Classification (MoNuSAC) (In-house repository) </h3>
+<h3>  Multi-Organ Nucleus Segmentation and Classification (MoNuSAC) </h3>
 Original credits: 
 <cite>Kumar, N., Verma, R., Anand, D., Zhou, Y., Onder, O. F., Tsougenis, E., ... & Sethi, A. (2019). A multi-organ nucleus segmentation challenge. IEEE transactions on medical imaging, 39(5), 1380-1391.</cite>
 [Sparse structure preserving color normalisation](https://github.com/MEDAL-IITB/Fast_WSI_Color_Norm)
