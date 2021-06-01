@@ -1,16 +1,16 @@
 ---
-title: "Classification of breast cancer histology using deep learning"
+title: "Robust active noise control: An information theoretic learning approach"
 collection: publications
-permalink: /publication/iciar2018
+permalink: /publication/mcc2016
 excerpt: ' In this paper, we propose a deep learning-based method for classification of H&E stained breast tissue images released for BACH challenge by deep learning and provide an efficient patch-sampling strategy.'
-date: 2018-06-01
-venue: 'International Conference Image Analysis and Recognition, Springer'
-image: 'tp-6.png'
+date: 2016-12-12
+venue: 'Applied Acoustics'
+image: 'mcc.png'
 width: '800'
 ---
-In this paper, we propose a deep learning-based method for classification of H&E stained breast tissue images released for BACH challenge by fine-tuning Inception-v3 convolutional neural network (CNN). These images are to be classified into four classes – (i) normal tissue, (ii) benign lesion, (iii) in situ carcinoma and (iv) invasive carcinoma. Our strategy is to extract patches based on nuclear density and rejecting patches that are not rich in nuclei, e.g. from non-epithelial regions. This allowed us to discard uninformative regions of the images as compared to random or grid sampling, because visual signs of tumors are most evident in the epithelium. Every patch with high nuclear density in an image is classified in one of the four above mentioned categories. The class of the entire image is determined using majority voting over the nuclear classes. We obtained an average accuracy of 85% over the four classes and 93% for non-cancer (i.e. normal or benign) vs. malignant (in situ or invasive carcinoma), which significantly improves upon a previous benchmark.
+Nonlinear active noise control (ANC) systems, which employ a nonlinear filter as the adaptive controlleris not robust when the primary noise to be mitigated has a non-Gaussian distribution. The algorithmwhich updates the weights of the controller may even diverge for some higher magnitude primary noisesignals. With an objective to improve the robustness of nonlinear ANC systems, a correntropy based non-linear ANC system is developed in this paper. The proposed ANC scheme uses an information theoreticlearning approach and has been shown to provide robust noise mitigation even for non-Gaussian primarynoise signals.
 
 ### Citation
-'Golatkar, A., <b>Anand, D.</b>, and Sethi, A. (2018). &quot;Classification of breast cancer histology using deep learning.&quot; <i>International Conference Image Analysis and Recognition</i>. (pp. 837-844). Springer, Cham.'
+'Kurian, Nikhil Cherian, Kashyap Patel, and Nithin V. George. "Robust active noise control: An information theoretic learning approach." Applied Acoustics 117 (2017): 180-184.'
 
-[Paper Link](https://link.springer.com/chapter/10.1007/978-3-319-93000-8_95)
+[Paper Link](https://www.sciencedirect.com/science/article/pii/S0003682X16303802#:~:text=With%20an%20objective%20to%20improve,non%2DGaussian%20primary%20noise%20signals.)
