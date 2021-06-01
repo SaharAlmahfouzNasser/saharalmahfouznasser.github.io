@@ -18,7 +18,7 @@ redirect_from:
 
 <h2>Recent Updates </h2> 
 
-1. Our reveiw article "A 2021 update on cancer image analytics with deep learning." has been accepted and published in Wiley Interdisciplinary Reviews:
+1. Our review article "A 2021 update on cancer image analytics with deep learning." has been accepted and published in Wiley Interdisciplinary Reviews:
 Data Mining and Knowledge Discovery May, 2021 
 2. Our Journal on MoNuSAC, summarizing the official 2020 ISBI competition has been accepted in IEEE Transactions on Medical Imaging, May 2021. 
 3. I have been invited to speak at Nvidia GTC 2021, on the topic "Robust loss functions on deep histopathology image classification", April 2021
