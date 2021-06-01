@@ -2,7 +2,7 @@
 title: "MoNuSAC2020: A Multi-organ Nuclei Segmentation and Classification Challenge"
 collection: publications
 permalink: /publication/tmi_monusac2021
-excerpt: ' In this paper, we present the key findings of MoNuSAC challenge at [MICCAI 2020](https://monusac-2020.grand-challenge.org/)'
+excerpt: ' In this paper, we present the key findings of MoNuSAC challenge at [ISBI 2020](https://monusac-2020.grand-challenge.org/)'
 date: 2021-04-03
 venue: 'Transaction of Medical Imaging, IEEE'
 image: 'monusac1.png'
