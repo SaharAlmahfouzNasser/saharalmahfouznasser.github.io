@@ -1,5 +1,5 @@
 ---
-title: "Resources for commonly used histology tasks"
+title: "Resources for Histology Imaging Tasks"
 excerpt: "Some of the common resources we use in computational pathology"
 collection: portfolio
 ---
