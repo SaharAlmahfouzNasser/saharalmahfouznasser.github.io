@@ -16,10 +16,11 @@ redirect_from:
 
 <h2>Recent Updates </h2> 
 
-1. Our review article "A 2021 update on cancer image analytics with deep learning." has been accepted and published in Wiley Interdisciplinary Reviews:
+1. A paper title " Robust histopathology image analysis exploiting adverserial autoencoder" has been accepted in EMBC 2021. July 2021
+2. Our review article "A 2021 update on cancer image analytics with deep learning." has been accepted and published in Wiley Interdisciplinary Reviews:
 Data Mining and Knowledge Discovery May, 2021 
-2. Our Journal on MoNuSAC, summarizing the official 2020 ISBI competition has been accepted in IEEE Transactions on Medical Imaging, May 2021. 
-3. I have been invited to speak at Nvidia GTC 2021, on the topic "Robust loss functions on deep histopathology image classification", April 2021
-4. I have been invited as a guest speaker at "Applications of AI in Healthcare" workshop, AICTE Sponsored Faculty Development
+3. Our Journal on MoNuSAC, summarizing the official 2020 ISBI competition has been accepted in IEEE Transactions on Medical Imaging, May 2021. 
+4. I have been invited to speak at Nvidia GTC 2021, on the topic "Robust loss functions on deep histopathology image classification", April 2021
+5. I have been invited as a guest speaker at "Applications of AI in Healthcare" workshop, AICTE Sponsored Faculty Development
 Program(FDP), on the topic "The confluence of deep learning in histopathology images", February 2021.
-5. Two papers:"Sample specific generalized cross entropy for robust histology image classification" ,"Self Supervised, Fully Convolutional Color Normalization of H&E Stained Images." got accepted in IEEE International Symposium on Biomedical Imaging (ISBI) 2021,Virtual Conference
+6. Two papers:"Sample specific generalized cross entropy for robust histology image classification" ,"Self Supervised, Fully Convolutional Color Normalization of H&E Stained Images." got accepted in IEEE International Symposium on Biomedical Imaging (ISBI) 2021,Virtual Conference
