@@ -122,6 +122,20 @@ $form-background-color: mix(#000, $background-color, 15%);
   background-color: $form-background-color;
 }
 
+.author__urls {
+    display: none;
+    position: absolute;
+    right: 0;
+    margin-top: 15px;
+    padding: 10px;
+    list-style-type: none;
+    border: 1px solid #51555d;
+    border-radius: 4px;
+    background: #5B6780;
+    z-index: -1;
+    box-shadow: 0 0 10px rgb(0 0 0 / 25%);
+    cursor: default;
+}
 
 /*
    Breakpoints
