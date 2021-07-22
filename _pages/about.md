@@ -16,7 +16,7 @@ redirect_from:
 
 <h2>Recent Updates </h2> 
 
-1. A paper title " Robust histopathology image analysis exploiting adverserial autoencoder" has been accepted in EMBC 2021. July 2021
+1. A paper titled " Robust histopathology image analysis exploiting adverserial autoencoder" has been accepted in EMBC 2021. July 2021
 2. Our review article "A 2021 update on cancer image analytics with deep learning." has been accepted and published in Wiley Interdisciplinary Reviews:
 Data Mining and Knowledge Discovery May, 2021 
 3. Our Journal on MoNuSAC, summarizing the official 2020 ISBI competition has been accepted in IEEE Transactions on Medical Imaging, May 2021. 
