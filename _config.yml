@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "nikhil-cherian-kurian-7bba285b"
-  orcid            : "https://orcid.org/0000-0003-1713-0736"
+  orcid            : #"https://orcid.org/0000-0003-1713-0736"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
