@@ -16,7 +16,7 @@ redirect_from:
 
 <h2>Recent Updates </h2> 
 
-1. Humbled to receive the best TA award for EE769: Introduction to Machine learning, Dept of EE, IIT Bombay. August 2021
+1. Humbled to receive the best TA award for EE769: Introduction to Machine Learning, Dept of EE, IIT Bombay. August 2021
 2. A paper titled " Robust histopathology image analysis exploiting adverserial autoencoder" has been accepted in EMBC 2021. July 2021
 3. Our review article "A 2021 update on cancer image analytics with deep learning." has been accepted and published in Wiley Interdisciplinary Reviews:
 Data Mining and Knowledge Discovery May, 2021 
