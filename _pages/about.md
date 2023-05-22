@@ -16,7 +16,7 @@ redirect_from:
 
 <h2>Recent Updates </h2> 
 
-1. Successfully defended my PhD entitled "Cautious and Robust Deep Learning Algorithms for Medical Image Analysis"
+1. Successfully defended my PhD entitled "Cautious and Robust Deep Learning Algorithms for Medical Image Analysis" - May 2023
 2. The Journal of Pathology has recently accepted a paper titled "Multiscale deep learning framework captures systemic immune features in lymph nodes predictive of triple negative breast cancer outcome in large-scale studies." This publication is the result of collaborative efforts between our team and researchers from Kings College London, as well as other institutions representing seven different countries, April 2023
 3. A journal entitled "Efficient Quality Control of Whole Slide Pathology Images with Human-in-the-Loop Training" has been accepted in the Journal of Pathology Informatics. Congratulations to all co-authors! March 2023.
 4. Our paper "Improving Mitosis Detection Via UNet-based Adversarial Domain Homogenizer" won the best paper award in BIOIMAGING 2023, Lisbon Portugal. Congratulations to all co-authors.- March 2023
