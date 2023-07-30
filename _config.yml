@@ -7,13 +7,13 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "en-US"
-title                    : "Nikhil Cherian Kurian"
+title                    : "Sahar Almahfouz Nasser"
 title_separator          : "-"
-name                     : &name "Nikhil Cherian Kurian"
+name                     : &name "Sahar Almahfouz Nasser"
 description              : &description "personal description"
-url                      : "https://nikhilkurian.github.io" # the base hostname & protocol for your site e.g. 
+url                      : "https://saharalmahfouznasser.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nikhilkurian/nikhilkurian.github.io"
+repository               : "SaharAlmahfouzNasser/saharalmahfouznasser.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nikhil Kurian"
+  name             : "Sahar Almahfouz Nasser"
   avatar           : "bio-photo-1.png"
-  bio              : "Applied Researcher-II, FRIPL"
-  location         : "Bengaluru, India"
+  bio              : "PhD Scholar, IIT-Bombay"
+  location         : "Mumbai, India"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5oEir04AAAAJ&hl=en"
-  email            : "nikhilcherian30@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Nikhil_Kurian2"
+  googlescholar    : "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=sahar+Almahfouz+Nasser&btnG=&oq=saha"
+  email            : "sahar.almahfouz,nasser@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Sahar-Almahfouz-Nasser-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "/nikhilkurian"
+  github           : "/SaharAlmahfouzNasser"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "nikhil-cherian-kurian-7bba285b"
-  orcid            : #"https://orcid.org/0000-0003-1713-0736"
+  linkedin         : "https://www.linkedin.com/in/sahar-almahfouz-nasser/"
+  orcid            : #"https://orcid.org/0000-0002-5063-9211"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
