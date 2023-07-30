@@ -5,7 +5,7 @@ permalink: /publication/mitosis2021
 date: 2021-09-27
 excerpt: This paper proposes a pre-processing autoencoder that is trained adversarially to the sources of domain variations for mitotic figures detection in histological tumor images.
 venue: 'ESMO MAP'
-image: 'mitosis2021'
+image: 'mitosis2021.png'
 width: '600'
 ---
 
