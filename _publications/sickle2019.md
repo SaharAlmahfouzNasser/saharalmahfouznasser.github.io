@@ -3,7 +3,7 @@ title: "Single Test Image-Based Automated Machine Learning System for Distinguis
 collection: publications
 permalink: /publication/sickle2019
 excerpt: ' This paper introduces a machine learning-based method for fully automated diagnosis of sickle cell disease of poor-quality unstained images of a mobile microscope.'
-date: 2019
+date: 2019-10-10
 venue: 'Arxiv'
 image: 'sickle.png'
 width: '800'
