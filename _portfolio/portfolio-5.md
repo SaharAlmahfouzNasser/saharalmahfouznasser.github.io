@@ -1,26 +1,24 @@
 ---
-title: "Resources for Histology Imaging Tasks"
-excerpt: "Some of the common resources we use in computational pathology"
+title: "Resources for Image Registration"
+excerpt: "Some of the common resources we use in image registration"
 collection: portfolio
 ---
-<h3>  GPU accelerated color-normalisation (In-house repository) </h3> 
+<h3>  MONAI: AI Toolkit for Healthcare Imaging </h3> 
+
+[Official Website of MONAI](https://github.com/Project-MONAI)
+
+
+
+<h3>  TorchIO: is an open-source Python library for efficient loading, preprocessing, augmentation and patch-based sampling of 3D medical images in deep learning, following the design of PyTorch </h3>
+
+[Official Website of TorchIO](https://torchio.readthedocs.io/)
+
+<h3> 3D Slicer image computing platform: Manly we use it to visualize 3D images   </h3>
 Original credits: 
-<cite>Anand, Deepak, Goutham Ramakrishnan, and Amit Sethi. "Fast gpu-enabled color normalization for digital pathology." 2019 International Conference on Systems, Signals and Image Processing (IWSSIP). IEEE, 2019.</cite>
-[Sparse structure preserving color normalisation](https://github.com/MEDAL-IITB/Fast_WSI_Color_Norm)
+
+[Official Website of 3D Slicer](https://www.slicer.org/)
 
 
+<h3>  OpenSlide: is a C library that provides a simple interface to read whole-slide images (also known as virtual slides). </h3>
 
-<h3>  Multi-Organ Nucleus Segmentation and Classification (MoNuSAC) </h3>
-Original credits: 
-<cite>Verma, R., Kumar, N., Patil, A., Kurian, N. C., Rane, S., & Sethi, A. Multi-organ Nuclei Segmentation and Classification Challenge 2020.</cite>
-[Official Website of MoNuSAC](https://monusac-2020.grand-challenge.org/)
-
-<h3> Multi-Organ Nucleus Segmentation (MoNuSeg)   </h3>
-Original credits: 
-<cite>Kumar, N., Verma, R., Anand, D., Zhou, Y., Onder, O. F., Tsougenis, E., ... & Sethi, A. (2019). A multi-organ nucleus segmentation challenge. IEEE transactions on medical imaging, 39(5), 1380-1391.</cite>
-[Official Website of MoNuSeg](https://monuseg.grand-challenge.org/)
-
-
-<h3>  Nucleus Detection (In-house repository) </h3>
-
-To be updated soon..
+[Official Website of OpenSlide](https://openslide.org/)
