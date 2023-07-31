@@ -19,6 +19,9 @@ surgery funded by <a href="https://www.qualcomm.com/" style="text-decoration: no
 <h2>Recent Updates </h2> 
 
 1. Our work "Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data" became the SOTA for retinal image registration-July 2023
+2. Our paper titled "Improving Mitosis Detection via UNet-Based Adversar-
+ial Domain Homogenizer" won the best paper award in the 16th International Joint Conference on Biomedical Engineering
+Systems and Technologies-March 2023
 
   
 
