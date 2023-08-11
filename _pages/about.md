@@ -17,9 +17,9 @@ surgery funded by <a href="https://www.qualcomm.com/" style="text-decoration: no
 <br>I maintain a list of my publications under the Research tab and my full Resume is attached the CV Tab.
 
 <h2>Recent Updates </h2> 
-
-1. Our work "Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data" became the SOTA for retinal image registration-July 2023
-2. Our paper titled "Improving Mitosis Detection via UNet-Based Adversar-
+1. Check out our new paper "Transforming Breast Cancer Diagnosis: Towards Real-Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis" now available on Arxiv at https://arxiv.org/abs/2308.05449
+2. Our work "Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data" became the SOTA for retinal image registration-July 2023
+3. Our paper titled "Improving Mitosis Detection via UNet-Based Adversar-
 ial Domain Homogenizer" won the best paper award in the 16th International Joint Conference on Biomedical Engineering
 Systems and Technologies-March 2023
 
