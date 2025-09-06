@@ -42,18 +42,57 @@ redirect_from:
   .date{font-weight:bold;color:#444;display:block;margin-bottom:5px}
 </style>
 
+
 <ul class="timeline">
+  <!-- 2025 -->
+  <li>
+    <span class="date">Jun 2025</span>
+    <strong>HAI-score (AI HER2 H-score):</strong> Objective AI method for accurate H-score estimation from IHC breast cancer samples. 
+    <em>Publication added to site.</em>
+  </li>
+  <li>
+    <span class="date">Jun 2025</span>
+    <strong>Immune biomarker for trastuzumab benefit:</strong> Computational pathology–informed biomarker validated in NSABP B-41 trial. 
+    <em>Publication added to site.</em>
+  </li>
+  <li>
+    <span class="date">Mar 2025</span>
+    <strong>AI in Oncology — Clinicians & Patients’ Lens:</strong> Perspective on opportunities for AI across the cancer care continuum. 
+    <em>Publication added to site.</em>
+  </li>
+
+  <!-- 2024 -->
+  <li>
+    <span class="date">2024</span>
+    <strong>Reverse Knowledge Distillation (WACV 2024):</strong> Training a large retinal matching model using a small one (limited data).
+  </li>
+  <li>
+    <span class="date">2024</span>
+    <strong>Radiomic Keypoint Detection (BIOSTEC 2024):</strong> Using radiomic features to enhance graph applications in MRI keypoint detection.
+  </li>
+  <li>
+    <span class="date">2024</span>
+    <strong>BraTS-Reg Meta-Analysis:</strong> Manuscript submitted to <em>Medical Image Analysis</em> (tracking added to site).
+  </li>
+
+  <!-- Your prior items (kept) -->
   <li>
     <span class="date">Aug 2023</span>
-    <strong>Transforming Breast Cancer Diagnosis:</strong> Towards Real-Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis — 
+    <strong>Transforming Breast Cancer Diagnosis:</strong> Real-time ultrasound → mammogram conversion — 
     <a href="https://arxiv.org/abs/2308.05449">arXiv</a>
   </li>
   <li>
     <span class="date">Jul 2023</span>
-    <strong>Reverse Knowledge Distillation:</strong> Training a Large Model using a Small One for Retinal Image Matching on Limited Data — Became SOTA for retinal image registration.
+    <strong>Reverse Knowledge Distillation:</strong> SOTA for retinal image registration.
   </li>
   <li>
     <span class="date">Mar 2023</span>
-    <strong>UNet-Based Adversarial Domain Homogenizer:</strong> Improving mitosis detection — Won Best Paper at BIOSTEC 2023.
+    <strong>UNet-Based Adversarial Domain Homogenizer:</strong> Best Paper, BIOSTEC 2023.
   </li>
 </ul>
+
+
+
+
+
+
