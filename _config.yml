@@ -244,6 +244,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+# Navigation
+nav:
+  - title: "About"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Talks"
+    url: /talks/
+  - title: "Agentic AI"
+    url: /agentic-ai/
 
 # Sass/SCSS
 sass:
