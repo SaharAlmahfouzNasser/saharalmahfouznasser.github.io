@@ -1,0 +1,27 @@
+---
+title: "TEDx Talk: How AI Can Make Cancer Care More Equitable"
+collection: talks
+type: "Invited Talk"
+permalink: /talks/tedx2025
+venue: "TEDx Nagpur Salon"
+date: 2025-02-15
+location: "Nagpur, India"
+---
+
+<img src="/images/tedx2025.png"
+     alt="TEDx Nagpur Salon"
+     style="display:block; margin: 0 auto; max-width: 600px;" />
+
+I was invited to give a **TEDx Salon Talk** on how AI tools are improving equitable breast cancer diagnosis and treatment.  
+In this talk, I shared my research journey, highlighting how computational pathology and explainable AI can bring precision diagnostics to underserved populations.
+
+---
+
+### Watch the Talk
+🎥 [View on LinkedIn](https://www.linkedin.com/posts/tedxnagpur_aiforgood-womeninscience-tedxnagpur-activity-7321337154385731584-eGkt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACndbRIBcjztHL9Jw86aIm_3UZqawLhEhAE)
+
+---
+
+### Abstract
+Artificial Intelligence has the potential to democratize cancer care by reducing costs, improving diagnostic accuracy, and enabling timely interventions.  
+In my TEDx talk, I discussed examples from my work on mitosis detection, HER2 quantification, and equitable AI biomarkers, while emphasizing the importance of fairness, transparency, and accessibility in medical AI.
