@@ -33,66 +33,55 @@ redirect_from:
 
 <br>I maintain a list of my publications under the Research tab and my full Resume is attached the CV Tab.
 
-<h2>Recent Updates</h2>
+<h2>News</h2>
 
 <style>
-  .timeline{margin:1.5rem 0 0 0;padding:0 0 0 1rem;border-left:3px solid #e5e7eb}
-  .timeline li{list-style:none;margin:0 0 1rem 0;position:relative;padding-left:0.75rem}
-  .timeline li::before{content:"";position:absolute;left:-9px;top:0.3rem;width:10px;height:10px;border-radius:50%;background:#6b7280}
-  .date{font-weight:bold;color:#444;display:block;margin-bottom:5px}
+  .news-item {
+    border-bottom: 1px solid #e5e7eb;
+    padding: 10px 0;
+  }
+  .news-item:last-child {
+    border-bottom: none;
+  }
+  .news-item p {
+    margin: 0;
+    line-height: 1.6;
+  }
+  .news-date {
+    font-weight: bold;
+    color: #444;
+  }
 </style>
 
+<div class="news-item">
+  <p><span class="news-date">June 2025 — New Paper Published:</span> Our paper on <em>HAI-score</em>, an objective AI method for HER2 H-score estimation from IHC breast cancer samples, is now published.</p>
+</div>
 
-<ul class="timeline">
-  <!-- 2025 -->
-  <li>
-    <span class="date">Jun 2025</span>
-    <strong>HAI-score (AI HER2 H-score):</strong> Objective AI method for accurate H-score estimation from IHC breast cancer samples. 
-    <em>Publication added to site.</em>
-  </li>
-  <li>
-    <span class="date">Jun 2025</span>
-    <strong>Immune biomarker for trastuzumab benefit:</strong> Computational pathology–informed biomarker validated in NSABP B-41 trial. 
-    <em>Publication added to site.</em>
-  </li>
-  <li>
-    <span class="date">Mar 2025</span>
-    <strong>AI in Oncology — Clinicians & Patients’ Lens:</strong> Perspective on opportunities for AI across the cancer care continuum. 
-    <em>Publication added to site.</em>
-  </li>
+<div class="news-item">
+  <p><span class="news-date">June 2025 — Clinical Trial Biomarker:</span> Published a study on a computational pathology–informed immune biomarker for trastuzumab benefit in HER2+ breast cancer, validated in the NSABP B-41 trial.</p>
+</div>
 
-  <!-- 2024 -->
-  <li>
-    <span class="date">2024</span>
-    <strong>Reverse Knowledge Distillation (WACV 2024):</strong> Training a large retinal matching model using a small one (limited data).
-  </li>
-  <li>
-    <span class="date">2024</span>
-    <strong>Radiomic Keypoint Detection (BIOSTEC 2024):</strong> Using radiomic features to enhance graph applications in MRI keypoint detection.
-  </li>
-  <li>
-    <span class="date">2024</span>
-    <strong>BraTS-Reg Meta-Analysis:</strong> Manuscript submitted to <em>Medical Image Analysis</em> (tracking added to site).
-  </li>
+<div class="news-item">
+  <p><span class="news-date">March 2025 — Perspective Article:</span> <em>Opportunities for Artificial Intelligence in Oncology: From the Lens of Clinicians and Patients</em> was published.</p>
+</div>
 
-  <!-- Your prior items (kept) -->
-  <li>
-    <span class="date">Aug 2023</span>
-    <strong>Transforming Breast Cancer Diagnosis:</strong> Real-time ultrasound → mammogram conversion — 
-    <a href="https://arxiv.org/abs/2308.05449">arXiv</a>
-  </li>
-  <li>
-    <span class="date">Jul 2023</span>
-    <strong>Reverse Knowledge Distillation:</strong> SOTA for retinal image registration.
-  </li>
-  <li>
-    <span class="date">Mar 2023</span>
-    <strong>UNet-Based Adversarial Domain Homogenizer:</strong> Best Paper, BIOSTEC 2023.
-  </li>
-</ul>
+<div class="news-item">
+  <p><span class="news-date">2024 — Conference Presentation:</span> Presented our work on radiomic features for MRI keypoint detection at BIOSTEC 2024.</p>
+</div>
 
+<div class="news-item">
+  <p><span class="news-date">2024 — Accepted Paper:</span> Our paper on Reverse Knowledge Distillation for retinal image matching was accepted at WACV 2024.</p>
+</div>
 
+<div class="news-item">
+  <p><span class="news-date">August 2023 — Preprint Released:</span> <em>Transforming Breast Cancer Diagnosis: Towards Real-Time Ultrasound to Mammogram Conversion</em> is now on 
+  <a href="https://arxiv.org/abs/2308.05449">arXiv</a>.</p>
+</div>
 
+<div class="news-item">
+  <p><span class="news-date">July 2023 — Research Highlight:</span> Our Reverse Knowledge Distillation approach became state-of-the-art for retinal image registration.</p>
+</div>
 
-
-
+<div class="news-item">
+  <p><span class="news-date">March 2023 — Best Paper Award:</span> Our UNet-Based Adversarial Domain Homogenizer for mitosis detection won Best Paper at BIOSTEC 2023.</p>
+</div>
