@@ -9,9 +9,9 @@ redirect_from:
 <h1>About Me</h1>
 <div style="text-align: justify;">
   I am a postdoctoral researcher in the 
-  <a href="https://bme.emory.edu/" style="text-decoration: none;">Department of Biomedical Engineering</a> 
+  <a href="https://med.emory.edu/research/research-innovation/hsrbii/index.html" style="text-decoration: none;">Department of Biomedical Engineering</a> 
   at Emory University, working with 
-  <a href="https://med.emory.edu/faculty/profile/#/anant-madabhushi" style="text-decoration: none;">Dr. Anant Madabhushi</a> 
+  <a href="https://winshipcancer.emory.edu/profiles/madabhushi-anant.php" style="text-decoration: none;">Dr. Anant Madabhushi</a> 
   on computational pathology and AI for precision oncology. My expertise spans machine learning, computer vision, and medical image analysis, with publications in venues such as WACV, MICCAI, ISBI, ASCO, JCO, and Ultrasonics.
 </div>
 <p></p>
