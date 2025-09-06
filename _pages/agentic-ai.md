@@ -1,13 +1,10 @@
+
 ---
 layout: single
 title: "Agentic AI for Oncology — Team Series"
 permalink: /agentic-ai/
-excerpt: "Our team’s series on agentic AI systems for oncology: paper summaries, practical takeaways, and discussions."
 author_profile: false
-toc: true
-toc_sticky: true
 ---
-
 We’ve started a new **series on Agentic AI for Oncology** where our team shares paper summaries, practical insights, and lessons for building safe and equitable multi-agent AI systems in healthcare.  
 
 ---
