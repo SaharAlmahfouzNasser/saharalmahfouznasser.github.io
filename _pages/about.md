@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <h1>About Me</h1>
 <div style="text-align: justify;">
   I am a postdoctoral researcher in the 
@@ -32,13 +33,27 @@ redirect_from:
 
 <br>I maintain a list of my publications under the Research tab and my full Resume is attached the CV Tab.
 
-<h2>Recent Updates </h2> 
-1. Check out our new paper "Transforming Breast Cancer Diagnosis: Towards Real-Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis" now available on Arxiv at https://arxiv.org/abs/2308.05449
-2. Our work "Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data" became the SOTA for retinal image registration-July 2023
-3. Our paper titled "Improving Mitosis Detection via UNet-Based Adversar-
-ial Domain Homogenizer" won the best paper award in the 16th International Joint Conference on Biomedical Engineering
-Systems and Technologies-March 2023
+<h2>Recent Updates</h2>
 
+<style>
+  .timeline{margin:1.5rem 0 0 0;padding:0 0 0 1rem;border-left:3px solid #e5e7eb}
+  .timeline li{list-style:none;margin:0 0 1rem 0;position:relative;padding-left:0.75rem}
+  .timeline li::before{content:"";position:absolute;left:-9px;top:0.3rem;width:10px;height:10px;border-radius:50%;background:#6b7280}
+  .date{font-weight:bold;color:#444;display:block;margin-bottom:5px}
+</style>
 
-  
-
+<ul class="timeline">
+  <li>
+    <span class="date">Aug 2023</span>
+    <strong>Transforming Breast Cancer Diagnosis:</strong> Towards Real-Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis — 
+    <a href="https://arxiv.org/abs/2308.05449">arXiv</a>
+  </li>
+  <li>
+    <span class="date">Jul 2023</span>
+    <strong>Reverse Knowledge Distillation:</strong> Training a Large Model using a Small One for Retinal Image Matching on Limited Data — Became SOTA for retinal image registration.
+  </li>
+  <li>
+    <span class="date">Mar 2023</span>
+    <strong>UNet-Based Adversarial Domain Homogenizer:</strong> Improving mitosis detection — Won Best Paper at BIOSTEC 2023.
+  </li>
+</ul>
